@@ -6,7 +6,7 @@ TypeScript × React Native (Expo) で構築した、シンプルで実用的な�
 | 記録画面 | 集計画面 |
 | --- | --- |
 | ![Screen1](https://via.placeholder.com/200x400?text=App+Image1) | ![Screen2](https://via.placeholder.com/200x400?text=App+Image2) |
-*(ここに実際のスクリーンショットを貼るのがおすすめです！)*
+
 
 ## ✨ Features
 - **Minimal Design**: 迷わずに入力できる、削ぎ落としたインターフェース。
