@@ -4,10 +4,10 @@
 [![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### [JP] シンプルで実用的な会計管理アプリ
+### [JP] 会計アプリ
 ### [EN] A minimal and practical accounting management app
 
-TypeScript と React Native (Expo) を使用して、日々の支出をストレスなく最速で記録することを目的に開発されました。
+TypeScript と React Native (Expo) を使用して、日々の支出をストレスなく最速で記録することを目的に頑張りました。
 Developed with TypeScript and React Native (Expo) to achieve the fastest possible expense tracking for daily use.
 
 ---
