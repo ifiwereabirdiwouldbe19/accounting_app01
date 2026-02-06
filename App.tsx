@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>AWS EC2 データ＆画像取得アプリ</Text>
+      <Text style={styles.header}>最初reactを立ち上げた時の画面。最終的には使わない</Text>
 
     </View>
   );
