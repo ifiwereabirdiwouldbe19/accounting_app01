@@ -3,9 +3,9 @@
 TypeScript × React Native (Expo) で構築した、シンプルで実用的な会計管理アプリです。
 
 ## 📸 Screenshots
-| 記録画面 | 集計画面 |
+| ログイン画面 | 集計画面 |
 | --- | --- |
-| ![Screen1](https://via.placeholder.com/200x400?text=App+Image1) | ![Screen2](https://via.placeholder.com/200x400?text=App+Image2) |
+| ![Screen1](assets/login.jpeg) | ![Screen2](https://via.placeholder.com/200x400?text=App+Image2) |
 
 
 ## ✨ Features
