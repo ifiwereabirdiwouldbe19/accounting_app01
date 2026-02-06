@@ -5,7 +5,7 @@ TypeScript × React Native (Expo) で構築した、シンプルで実用的な�
 ## 📸 Screenshots
 | ログイン画面 | 集計画面 |
 | --- | --- |
-| ![Screen1](assets/login.jpeg) | ![Screen2](https://via.placeholder.com/200x400?text=App+Image2) |
+| ![Screen1]<img src="assets/login.jpeg" width="250"> | ![Screen2](https://via.placeholder.com/200x400?text=App+Image2) |
 
 
 ## ✨ Features
