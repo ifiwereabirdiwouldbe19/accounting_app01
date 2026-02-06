@@ -13,9 +13,8 @@ TypeScript と React Native (Expo) を使用して、日々の支出をストレ
 app.jsonやeas.jsonのバンドルIDは伏せてます。よかったら試してみて欲しいです。
 
 Built with TypeScript and React Native (Expo), this app is designed for lightning-fast, zero-friction expense tracking.
-
 It's my own 'private machine' setup, running on a Raspberry Pi home server. You can run it on your iPhone by building it on a Mac and using TestFlight. I’ve omitted the bundle IDs in the config files, but I'd love for you to check it out!
----
+
 
 ## Screenshots
 <div align="center">
