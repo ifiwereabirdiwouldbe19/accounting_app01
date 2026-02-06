@@ -9,11 +9,15 @@
 ### [EN] A minimal accounting app with Self-Hosted Backend
 
 TypeScript と React Native (Expo) を使用して、日々の支出をストレスなく最速で記録することを目的に開発しました。
-本プロジェクトの最大の特徴は、**自宅の Raspberry Pi をサーバーとして運用している「自分専用機」**である点です。
+自宅の Raspberry Pi をサーバーとして運用している「自分専用機」です。自分のmacでビルドしてTestflight等にあげれば、iphoneアプリとして動きます。
+app.jsonやeas.jsonのバンドルIDは伏せてます。よかったら試してみて欲しいです。
 
+Built with TypeScript and React Native (Expo), this app is designed for lightning-fast, zero-friction expense tracking.
+
+It's my own 'private machine' setup, running on a Raspberry Pi home server. You can run it on your iPhone by building it on a Mac and using TestFlight. I’ve omitted the bundle IDs in the config files, but I'd love for you to check it out!
 ---
 
-## 📸 Screenshots
+## Screenshots
 <div align="center">
   <table>
     <tr>
@@ -29,7 +33,7 @@ TypeScript と React Native (Expo) を使用して、日々の支出をストレ
 
 ---
 
-## 🏠 Self-Hosted Infrastructure / インフラ構成
+## Self-Hosted Infrastructure / インフラ構成
 
 クラウドサービスに依存せず、すべてのデータを自宅内のプライベートな環境で管理しています。
 
@@ -43,21 +47,21 @@ TypeScript と React Native (Expo) を使用して、日々の支出をストレ
 
 ---
 
-## ✨ Features / 主な機能
+## Features / 主な機能
 
-- **⚡️ Speedy Entry / 素早い入力**
+- **Speedy Entry / 入力は少し早い**
   - **JP**: 複雑な設定を排除し、秒で記帳が完了するインターフェース。
   - **EN**: Minimal interface designed for intuitive and effortless data entry within seconds.
 
-- **📄 Batch Printing / 精算書類の印刷**
+- **Batch Printing / 精算書類の印刷**
   - **JP**: 精算書や出金伝票の印刷機能がありますが、これらはあくまで参照用のサンプルであり、法的な要件や公式な会計基準に厳密に基づいたものではありません。
   - **EN**: While the app can generate and print summary reports and payment slips, these are provided as samples for reference only and do not strictly comply with official legal or accounting standards.
 
-- **🛡️ Type Safe / 型安全な設計**
-  - **JP**: TypeScript をフル活用し、堅牢でメンテナンス性の高いコードベースを実現。
+- **Type Safe / 型安全な設計**
+  - **JP**: TypeScript をフル活用し、堅牢でメンテナンス性の高いコードベースを実現したい。
   - **EN**: Robust implementation with 100% type safety using TypeScript.
 
-- **🚀 Private & Secure / プライバシー重視**
+- ** Private & Secure / プライバシー重視**
   - **JP**: 自宅のラズパイと直接やり取りするため、データが外部に漏れる心配がありません。
   - **EN**: Data is stored locally on a Raspberry Pi, ensuring maximum privacy and data ownership.
 
